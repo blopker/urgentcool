@@ -1,0 +1,118 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Arial", sans-serif;
+}
+.Normal-P {
+  margin: 0pt 0pt 0pt 0pt;
+  text-align: center;
+  font-weight: 400;
+}
+.Normal-2-P {
+  margin: 0pt 0pt 5.3pt 0pt;
+  text-align: center;
+  font-weight: 400;
+}
+.Normal-2-P0 {
+  margin: 5.3pt 0pt 5.3pt 0pt;
+  text-align: center;
+  font-weight: 400;
+}
+.Normal-P0 {
+  margin: 0pt 0pt 0pt 0pt;
+  padding-left: 20px;
+  text-align: left;
+  font-weight: 400;
+}
+.Normal-P1 {
+  margin: 0pt 0pt 0pt 0pt;
+  list-style-type: disc;
+  text-align: left;
+  font-weight: 400;
+}
+.Normal-P2 {
+  margin: 0pt 0pt 0pt 0pt;
+  text-align: left;
+  font-weight: 400;
+}
+.Normal-C {
+  font-weight: 700;
+  font-size: 12pt;
+  line-height: 1.25em;
+  color: #ffffcc;
+}
+.Normal-2-C {
+  font-size: 15.8pt;
+  line-height: 1.19em;
+}
+.Normal-C0 {
+  font-weight: 700;
+  font-size: 12pt;
+  line-height: 1.31em;
+}
+.Normal-C1 {
+  font-size: 12pt;
+  line-height: 1.31em;
+}
+.Normal-C2 {
+  font-weight: 700;
+  font-size: 12pt;
+  line-height: 1.25em;
+}
+.Normal-C3 {
+  font-size: 12pt;
+  line-height: 1.13em;
+}
+.Normal-C4 {
+  font-weight: 700;
+  font-size: 12pt;
+  line-height: 1.19em;
+}
+.Normal-C5 {
+  font-style: italic;
+  font-weight: 700;
+  font-size: 12pt;
+  line-height: 1.19em;
+}
+.Normal-C6 {
+  font-style: italic;
+  font-size: 12pt;
+  line-height: 1.25em;
+}
+.Normal-C7 {
+  font-size: 11.3pt;
+  line-height: 1.33em;
+  color: #ffffff;
+}
+.Normal-C8 {
+  font-weight: 700;
+  font-size: 11.3pt;
+  line-height: 1.4em;
+  color: #ffffcc;
+}
+.Normal-C9 {
+  font-size: 11.3pt;
+  line-height: 1.33em;
+  color: #fff300;
+}
+.Normal-C10 {
+  font-style: italic;
+  font-size: 12pt;
+  line-height: 1.25em;
+  color: #ffffff;
+}
+.Normal-C11 {
+  font-size: 11.3pt;
+  line-height: 1.33em;
+}
+.Normal-C12 {
+  font-weight: 700;
+  font-size: 11.3pt;
+  line-height: 1.4em;
+}
+.Normal-C13 {
+  font-weight: 700;
+  font-size: 12pt;
+  line-height: 1.31em;
+  color: #ffffcc;
+}
